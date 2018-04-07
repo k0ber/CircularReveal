@@ -1,3 +1,3 @@
 # CircleReveal
 
-![](../gif.gif)
+<img src="gif.gif" width="35%" height="35%">
